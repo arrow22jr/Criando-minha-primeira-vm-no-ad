@@ -1,0 +1,21 @@
+Acesse o Portal do Azure:
+Vá para o portal do Azure e faça login com sua conta.
+Crie um Grupo de Recursos:
+No menu à esquerda, clique em “Grupos de Recursos” e depois em “Adicionar”.
+Dê um nome ao seu grupo de recursos e selecione a região desejada.
+Crie a Máquina Virtual:
+No menu à esquerda, clique em “Máquinas Virtuais” e depois em “Adicionar”.
+Preencha os detalhes da VM:
+Nome: Escolha um nome para sua VM.
+Região: Selecione a mesma região do grupo de recursos.
+Imagem: Escolha a imagem do sistema operacional (por exemplo, Windows Server 2022).
+Tamanho: Selecione o tamanho da VM de acordo com suas necessidades.
+Conta de Administrador: Crie um nome de usuário e senha para acessar a VM.
+Configurar Rede:
+Configure as opções de rede, como o grupo de segurança de rede e o endereço IP público.
+Revisar e Criar:
+Revise todas as configurações e clique em “Revisar + criar”.
+Após a validação, clique em “Criar” e aguarde a implantação.
+Conectar à VM:
+Após a implantação, vá para a página da VM e clique em “Conectar” > “RDP”.
+Baixe o arquivo RDP e use-o para se conectar à sua VM.
